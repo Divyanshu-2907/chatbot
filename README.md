@@ -142,6 +142,6 @@ This project is licensed under the MIT License. For more details, see the LICENS
 
 ## 🔗 Links
 
-* [GitHub Repository](https://chatgpt.com/c/6756f15a-bdb8-8005-a01f-fde6e2779a85)
+* [GitHub Repository](https://github.com/Divyanshu-2907/chatbot.git)
 * [Documentation](https://botpress.com/blog/nlp-chatbot)
 * [Community Chat/Forum](https://community.intersystems.com/post/step-step-guide-create-customized-chatbot-using-spacy-python-nlp-library)
